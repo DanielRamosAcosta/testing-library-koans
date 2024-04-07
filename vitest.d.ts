@@ -1,3 +1,4 @@
+/* eslint-disable */
 import type { Assertion, AsymmetricMatchersContaining } from "vitest";
 
 interface CustomMatchers<R = unknown> {
