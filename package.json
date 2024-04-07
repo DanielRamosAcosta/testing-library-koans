@@ -9,7 +9,9 @@
     "format:check": "prettier --check .",
     "format:fix": "prettier --write .",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "eject": "node eject.mjs",
+    "preview": "vite preview",
+    "test": "vitest"
   },
   "dependencies": {
     "react": "^18.2.0",
