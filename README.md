@@ -1,5 +1,7 @@
 # Testing Library Koans
 
+![Github Action Status](https://github.com/DanielRamosAcosta/testing-library-koans/actions/workflows/main.yml/badge.svg)
+
 Welcome to Testing Library Koans! This repository contains example exercises designed to train you on using the frontend Testing Library. Through these koans, you'll learn how to write tests that focus on queries and user actions, enhancing your understanding of Testing Library concepts.
 
 ## Prerequisites
